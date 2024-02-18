@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Backend (Node js, express js, mongoo DB).
 - 💞️ I’m looking to collaborate on Frontend and Backend Projects and idea's.
 - 📫 Email Me: thakuraditya621@gmail.com
-- My LinkedIn : www.linkedin.com/in/aditya-singh621
+- 🔗 LinkedIn : www.linkedin.com/in/aditya-singh621
 
 <div align="center">
 <h1> 🚀 My Tech Stack :</h1>
