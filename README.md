@@ -8,13 +8,14 @@
 <div align="center">
 <h1> 🚀 My Tech Stack :</h1>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,tailwind,react,java,nodejs,expressjs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,angular,tailwind,react,java,nodejs,expressjs,mongodb)](https://skillicons.dev)
   
 </div>
 
 <h1 align="center" > 🏆 My Stats :</h1>
 
-<picture>
+<div align="center">
+<picture >
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -31,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya621&layout=compact&langs_count=8&card_width=400" />
 </a>
 
-<div >
+</div>
 
 
 <div>
