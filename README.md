@@ -28,14 +28,17 @@
 
 <a/>
 <a href="https://github.com/Aditya621/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya621&layout=compact&langs_count=10&card_width=400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya621&layout=compact&langs_count=8&card_width=400" />
 </a>
 
 <div >
 
 
+<div>
 
 [![Find Peace that Relax your mind](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+</div>
 
 <!---
 Aditya621/Aditya621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
