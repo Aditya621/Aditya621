@@ -23,7 +23,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true&card_width=200" />
 </picture>
 
 <a/>
