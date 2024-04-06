@@ -17,6 +17,10 @@
 <a href="https://github.com/Aditya621/github-readme-stats">
   <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya621" />
 </a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=Aditya621&theme=dark&show_icons=true"
+
+<a/>
 <a href="https://github.com/Aditya621/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya621&layout=compact&langs_count=8&card_width=320" />
 </a>
