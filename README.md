@@ -12,7 +12,7 @@
   
 </div>
 
-<h1 align="start" > 🏆 My Stats :</h1>
+<h1 align="center" > 🏆 My Stats :</h1>
 
 <div align="center">
 <picture>
@@ -24,12 +24,12 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true&card_width=200" />
+  <img width="400px" height="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true" />
 </picture>
 
 <a/>
 <a href="https://github.com/Aditya621/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya621&layout=compact&langs_count=8&card_width=400" />
+  <img width="350px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya621&layout=compact&langs_count=8" />
 </a>
 
 </div>
