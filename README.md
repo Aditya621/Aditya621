@@ -12,10 +12,10 @@
   
 </div>
 
-<h1 align="center" > 🏆 My Stats :</h1>
+<h1 align="start" > 🏆 My Stats :</h1>
 
 <div align="center">
-<picture >
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -24,7 +24,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true&card_width=200" />
+  <img width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya621&show_icons=true&card_width=200" />
 </picture>
 
 <a/>
@@ -35,7 +35,7 @@
 </div>
 
 
-<div>
+<div align="center">
 
 [![Find Peace that Relax your mind](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
